@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.bak/
+db_exporter_env/
+*.env
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and debug
+*.log
+
+# PyInstaller output (if you ever build executable)
+dist/
+build/
+*.spec
+
+# Qt Designer files (if any auto-generated)
+*.ui.py
+
+# Compiled translations
+*.qm
+
+# Misc
+*.db
+*.sqlite3
+*.bak
+*.tmp
+
+# Generated screenshots or temp files
+*.png
+*.jpg
+*.jpeg
+screenshots/
